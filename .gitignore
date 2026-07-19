@@ -1,0 +1,15 @@
+# Ignore compiled Java bytecode
+*.class
+
+# Ignore build directories
+bin/
+build/
+out/
+target/
+
+# Ignore IDE specific files
+.idea/
+*.iml
+.settings/
+.classpath
+.project
